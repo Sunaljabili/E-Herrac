@@ -1,0 +1,20 @@
+.about-us{
+background-color: rgb(243 244 246);
+padding: 30px;
+margin-bottom: 20px;
+}
+.about-us .about-textarea .about-text {
+    line-height: 2;
+}
+
+.about-us .about-textarea .head-title {
+    border-bottom: 1px solid black;
+    margin-bottom:20px ;
+    color: rgb(54 65 81);
+}
+
+.about-us .about-textarea .about-text{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #333333;
+}

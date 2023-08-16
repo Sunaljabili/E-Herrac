@@ -1,0 +1,40 @@
+.element .heading {
+    margin-bottom: 10px;
+}
+
+.element .heading h3 {
+  color: rgb(107 114 128);
+  position: relative;
+  font-size: 25px;
+
+}
+.element .heading h3::before {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 30px;
+  background-color: rgb(107 114 128);
+  left: -14px;
+  top: 0px;
+  font-size: 24px;
+}
+.element .info-area p {
+    padding: 0px;
+    margin: 0px;
+    margin-left: -20px;
+    font-size: 20px;
+}
+.element .info-area .list-items {
+    width: 100%;
+
+}
+.element .info-area .list-item {
+    list-style-type: none;
+}
+.element .info-area .list-item .item {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: -42px;
+    line-height: 1.5;
+}

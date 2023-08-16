@@ -1,0 +1,43 @@
+.form-element {
+  margin: 0 auto;
+  width: 50%;
+}
+.form-element .search-element {
+  height: 50px;
+  border-radius: 35px;
+  border-color: 1px solid rgb(233, 223, 223);
+  font-size: 20px;
+}
+.form-element .search-element:focus {
+  box-shadow: none;
+  border-color: rgb(233, 223, 223);
+}
+
+.form-element .search-input {
+  border-right-color: white;
+}
+.form-element  .search-select{
+    position: relative;
+}
+
+/* Select Input Element */
+
+.form-element .search-select {
+  margin-left: -50px;
+  border-left: white;
+  border-radius: 0%;
+  position: relative;
+}
+
+
+
+/* Select Btn Element */
+
+.form-element .search-btn {
+  width: 140px;
+  border-top-left-radius: 0%;
+  border-bottom-left-radius: 0%;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  position: relative;
+}
