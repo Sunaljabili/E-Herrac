@@ -1,18 +1,56 @@
-.card-element{
-position: relative;
-width: 100%;
-height: 100%;
+.card {
+    width: 240px;
+    border: 1px solid gainsboro;
+    cursor: pointer;
+    box-shadow: 4px 8px 5px 10px #fdf8f8;
+    ;
 }
 
-.card-element .image{
-    
+.card .card-header {
+    width: 240px;
+    position: relative;
+    border-bottom: none;
+    padding: 2px;
 }
 
-.card-element .price{
+.card .card-header img {
+    width: 100%;
+}
+
+.card-payment {
     position: absolute;
-    background-color: blue;
-    bottom: 45%;
-    right: 0%;
-    padding: 5px;
+    bottom: 0px;
+    right: 0px;
+    background-color: rgb(60 130 246);
+    color: white;
+    padding: 7px;
+}
+
+.card .card-body p {
+    text-align: center;
+    line-height: 26px;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+
+.card .card-footer {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: transparent;
+    border-top: none;
+}
+.card .card-footer span{
+    font-size: 14px;
+    color: #697280;
+}
+
+.card .card-footer .footer-area .location {
+    text-align: left;
+}
+
+.card .card-footer .footer-area .time {
+    text-align: right;
 
 }

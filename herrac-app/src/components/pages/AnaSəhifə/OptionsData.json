@@ -1,0 +1,30 @@
+{
+    "menu":[
+        {
+            "id":1,
+            "name":" Daşınmaz əmlak",
+            "subcategories":[
+                {
+                    "id":101,
+                    "name":"- Mənzil"
+                },
+                {
+                    "id":102,
+                    "name":"- Fərdi yaşayış"
+                },
+                {
+                    "id":103,
+                    "name":"- Fərdi yaşayış"
+                },
+                {
+                    "id":104,
+                    "name":"- Fərdi yaşayış"
+                },
+                {
+                    "id":105,
+                    "name":"- Fərdi yaşayış"
+                }
+            ]
+        }
+    ]
+}

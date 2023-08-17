@@ -24,6 +24,10 @@ function searchBar() {
                             <option>
                                 1
                             </option>
+                            <select name="" id="">Hello
+                                <option value="">hi</option>
+                                <option value="">h3ß</option>
+                            </select>
                             <option>
                                 2
                             </option>

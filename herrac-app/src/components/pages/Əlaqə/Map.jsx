@@ -7,7 +7,8 @@ function Map() {
         width="484"
         height="500"
         style={{ border: "0" }}
-        loading="lazy">
+        loading="lazy"
+        >
       </iframe>
     </div>
   )

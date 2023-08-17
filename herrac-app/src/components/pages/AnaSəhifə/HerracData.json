@@ -10,15 +10,39 @@
     },
     {
       "id": 2,
-      "image": "../../assets/images/herrac/herrac-img.jpeg",
-      "price": "60,00 AZN",
+      "image": "https://e-herrac.com/storage/202/conversions/16341350491632947868ECD434A0-D83D-487F-A5ED-6F09C0E5E300-900x600.jpg",
+      "price": "60,000 AZN",
       "title": "AÇIQ  HƏRRACIN KEÇİRİLMƏSİNƏ DAİR ELAN",
       "location": "Nizami",
       "time": "29/03/2022"
     },
     {
       "id": 3,
-      "image": "../../assets/images/herrac/herrac-img.jpeg",
+      "image": "https://e-herrac.com/storage/202/conversions/16341350491632947868ECD434A0-D83D-487F-A5ED-6F09C0E5E300-900x600.jpg",
+      "price": "54,700 AZN",
+      "title": "AÇIQ  HƏRRACIN KEÇİRİLMƏSİNƏ DAİR ELAN",
+      "location": "Qaradag",
+      "time": "29/03/2022"
+    },
+    {
+      "id": 4,
+      "image": "https://e-herrac.com/storage/202/conversions/16341350491632947868ECD434A0-D83D-487F-A5ED-6F09C0E5E300-900x600.jpg",
+      "price": "125,760 AZN",
+      "title": "AÇIQ  HƏRRACIN KEÇİRİLMƏSİNƏ DAİR ELAN",
+      "location": "Bilesuvar",
+      "time": "16/03/2022"
+    },
+    {
+      "id": 5,
+      "image": "https://e-herrac.com/storage/202/conversions/16341350491632947868ECD434A0-D83D-487F-A5ED-6F09C0E5E300-900x600.jpg",
+      "price": "60,00 AZN",
+      "title": "AÇIQ  HƏRRACIN KEÇİRİLMƏSİNƏ DAİR ELAN",
+      "location": "Nizami",
+      "time": "29/03/2022"
+    },
+    {
+      "id": 6,
+      "image": "https://e-herrac.com/storage/202/conversions/16341350491632947868ECD434A0-D83D-487F-A5ED-6F09C0E5E300-900x600.jpg",
       "price": "54,700 AZN",
       "title": "AÇIQ  HƏRRACIN KEÇİRİLMƏSİNƏ DAİR ELAN",
       "location": "Qaradag",
