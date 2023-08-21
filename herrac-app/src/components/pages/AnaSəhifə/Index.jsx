@@ -1,13 +1,11 @@
 import React from 'react'
-import Slider from './Slider'
-import SliderImage from './SliderImage'
+import Carousel from './Carousel'
 import SearchBar from './searchBar'
 import Herrac from './Herrac'
 function Index() {
   return (
     <div>
-      <Slider/>
-      <SliderImage/>
+      <Carousel/>
       <SearchBar/>
       <Herrac/>
     </div>

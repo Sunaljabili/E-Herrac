@@ -1,0 +1,18 @@
+{
+"slides":[
+    {
+        "id":1,
+        "img":"https://e-herrac.com/storage/3/161096634003045-World_Architecture_Festival_02.png",
+        "title":"Azərbaycan Respublikası Əmlak Hərrac Mərkəzi",
+        "alt":"Image 1 for Slider"
+    },
+    {
+        "id":2,
+        "img":"https://e-herrac.com/storage/37/29706.jpg",
+        "title":"Online Auction",
+        "alt":"Image 2 for Slider"
+
+    }
+]
+
+}
