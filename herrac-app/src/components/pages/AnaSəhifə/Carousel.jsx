@@ -5,13 +5,17 @@ import "./Carousel.css"
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
+
 const settings = {
     dots: true,
     fade: true,
     infinite: true,
-    speed: 500,
+    speed: 3500,
     slidesToShow: 1,
-    slidesToScroll: 1
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 2500,
+    cssEase: "linear"
 };
 function Carousel() {
     return (

@@ -9,7 +9,6 @@ function Navbar() {
     return {
       backgroundColor:isActive ? 'rgb(60 130 246)' : 'white',
       color:isActive ? 'white' :"black"
-
     }
 
   }
